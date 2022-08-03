@@ -1,0 +1,13 @@
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\bin\Debug\MenuOrdinario.exe.config
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\bin\Debug\MenuOrdinario.exe
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\bin\Debug\MenuOrdinario.pdb
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.csproj.AssemblyReference.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.Properties.Resources.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.csproj.GenerateResource.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.csproj.CoreCompileInputs.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.exe
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.pdb
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.FormularioMenu1.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.FormularioPrincipal.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\MenuOrdinario\MenuOrdinario\obj\Debug\MenuOrdinario.FormularioMenu2.resources
